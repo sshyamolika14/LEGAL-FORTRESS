@@ -1,0 +1,9 @@
+# Python (backend)
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/env/
+backend/temp/
+
+# Misc
+.DS_Store
